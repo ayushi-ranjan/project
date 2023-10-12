@@ -1,0 +1,30 @@
+.searchBarDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 5px;
+    width: 400px;
+}
+.searchBar {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 5px;
+}
+i.fas.fa-search
+{
+    color: rgb(143, 138, 138);
+    margin-left: 5px; 
+}
+/* i.fas.fa-filter {
+    color: rgb(143, 138, 138);
+    margin-left: 5px; 
+} */
